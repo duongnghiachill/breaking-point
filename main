@@ -1,0 +1,3 @@
+getgenv().AutoFarm = true --enables / disables AutoFarm
+getgenv().ServerHop = true --enables / disables server hop, add to autoexec if you enable this.
+loadstring(game:HttpGet('https://pastebin.com/raw/W13bc97y'))()
